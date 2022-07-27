@@ -14,6 +14,10 @@ namespace ConsoleApp1
             Console.WriteLine("MANJU");
             Console.ReadLine();
             Console.WriteLine("MANJU");
+            Console.ReadLine();
+            Console.WriteLine("MANJU");
+            Console.ReadLine();
+            Console.WriteLine("MANJU");
         }
     }
 }
